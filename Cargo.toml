@@ -1,0 +1,9 @@
+[package]
+name = "rpp"
+version = "0.1.0"
+authors = ["Runar Grønås <35918203+anzuh@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
