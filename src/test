@@ -1,9 +1,0 @@
-!# bash 
-The sum of 2 + 2 is:
-!! echo "2 + 2" | bc
-
-this is a test. 
-:)
-
-Here's some other file's contents:
-!! cat test2 
