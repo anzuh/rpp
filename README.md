@@ -53,6 +53,11 @@ scripts and will change the processor to some other program.
 Sh is the default program. The !# syntax could theoretically run any program
 that uses the format `<program name> -c <command>`.
 
+## Building
+
+To compile this, you'll need to have the Rust toolchain installed.
+After that it's as simple as cloning the repo and running `cargo build`.
+
 ## Contribution
 
 This started out as a project by students who were just learning Rust. As such,
