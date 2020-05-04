@@ -67,4 +67,4 @@ Feel free to submit a Pull Request if you wish to help.
 
 ## License
 
-[MIT](./LICENSE.md)
+[MIT](./LICENSE)
