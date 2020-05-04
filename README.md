@@ -47,7 +47,7 @@ scripts and will change the processor to some other program.
 
 ```
 !# sh - changes shell to sh
-!# bash - changes shell to fish
+!# bash - changes shell to bash 
 ```
 
 Sh is the default program. The !# syntax could theoretically run any program
